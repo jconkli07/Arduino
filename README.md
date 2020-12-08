@@ -17,3 +17,11 @@ For this assignment I made an LED fade in and out forever and displayed a line o
 [Link to Code](https://create.arduino.cc/editor/jconkli07/cfdf81ed-eb31-4a88-9bb6-84eef9101d40/preview)
 
 ---
+
+## Hello Functions
+
+For this assignment I used the servo and ultrasonic sensor for the first time. I made the sevo turn at different speeds depending on how far an object was from the sensor. Google was really helpful with this assignment, it helped me with the wiring and how to get the distance from an ultrasonic sensor. I feel that I understand functions pretty well after this asignment, and I also feel relatively confident with using the ultrasonic sensor and servo, whereas before I had little to no experience.
+
+[Link to Code](https://create.arduino.cc/editor/jconkli07/2b9b169b-8c60-455b-9398-b49226155327/preview)
+
+---
