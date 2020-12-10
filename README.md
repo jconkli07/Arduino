@@ -8,7 +8,7 @@ For this assignment I added to my earlier LED blinking program by making it blin
 
 ### Wiring
 
-<img src="Images/HelloFunctionsWiring.png" alt="LEDBlinkWiring.png" width="200" height="200">
+<img src="Images/LEDBlinkWiring.png" alt="Wiring" width="200" height="200">
 
 [Link to Code](https://create.arduino.cc/editor/jconkli07/8e330e15-7bb3-4027-ba97-ca31b3a4a79e/preview)
 
@@ -33,6 +33,7 @@ For this assignment I used the servo and ultrasonic sensor for the first time. I
 ### Wiring
 
 <img src="Images/HelloFunctionsWiring.png" alt="Wiring" width="200" height="200">
+
 [Link to Code](https://create.arduino.cc/editor/jconkli07/2b9b169b-8c60-455b-9398-b49226155327/preview)
 
 ---
