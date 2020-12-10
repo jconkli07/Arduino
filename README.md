@@ -37,3 +37,15 @@ For this assignment I used the servo and ultrasonic sensor for the first time. I
 [Link to Code](https://create.arduino.cc/editor/jconkli07/2b9b169b-8c60-455b-9398-b49226155327/preview)
 
 ---
+
+## NewPing
+
+For this assignment I decided to use the NewPing library to make an LED glow at a different brightness depending how far away an object was from the ultrasonic sensor. I felt like this was kind of a cross between the LED Blink Revisited and Hello Functions assignments. Using the library was a bit tricky at first but then I figured out the issues and got it working. It was much easier to code the LED because I have done it couple times before, after this assignment I feel more comfortable with using libraries.
+
+### Wiring
+
+<img src="Images/NewPingWiring.png" alt="Wiring" width="200" height="200">
+
+[Link to Code](https://create.arduino.cc/editor/jconkli07/fbee8283-010f-469d-9b91-15fe3b70f37e/preview)
+
+---
