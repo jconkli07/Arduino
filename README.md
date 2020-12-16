@@ -56,7 +56,7 @@ In this assignment I made a night light that varies in brightness depending on t
 
 ### Wiring
 
-<img src="Images/PhototresistorWiring.png" alt="Wiring" width="200" height="200">
+<img src="Images/PhotoresistorWiring.png" alt="Wiring" width="200" height="200">
 
 [Link to Code](https://create.arduino.cc/editor/jconkli07/8f67dc60-b464-458e-a5aa-d12b335aa224/preview)
 
