@@ -49,3 +49,15 @@ For this assignment I decided to use the NewPing library to make an LED glow at 
 [Link to Code](https://create.arduino.cc/editor/jconkli07/fbee8283-010f-469d-9b91-15fe3b70f37e/preview)
 
 ---
+
+## Photoresistor
+
+In this assignment I made a night light that varies in brightness depending on the light level in the room. I used the photoresistor to get the value for the amount of light in the room. The value was higher when it was lighter and lower when it was darker. I then used this value to set an LED to a certain brightness (with analogWrite) depending on how bright it was. When the room is very bright the LED is off but as it gets darker the LED turns on and slowly gets brighter the darker it gets. This assignment helped me learn how to use the photoresistor, I didn't have any significant problems with the coding or wiring.
+
+### Wiring
+
+<img src="Images/PhototresistorWiring.png" alt="Wiring" width="200" height="200">
+
+[Link to Code](https://create.arduino.cc/editor/jconkli07/8f67dc60-b464-458e-a5aa-d12b335aa224/preview)
+
+---
